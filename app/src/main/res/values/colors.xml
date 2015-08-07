@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_black">#000000</color>
+    
+    <color name="white70">#70ffffff</color>
+    <color name="yellow70">#f6e400</color>
+    <color name="fab_ripple">#7891ff</color>
+
+    
+    <!-- components -->
+    <color name="color_fonts1">#FEFEFE</color>
+    <color name="color_bg_header_red">#F66867</color>
+    <color name="color_bg_header_red2">#ED1B24</color>
+    <color name="color_bg_header_black">#333333</color>
+    
+    <color name="color_btn_red">#ED1B24</color>
+    
+    <!-- textos -->
+    <color name="color_txt_red">#ed1c24</color>
+    <color name="color_txt_black">#666666</color>
+    
+    <!-- tabs -->
+    <color name="tab2">#333333</color>
+    <color name="tab1">#ffffff</color>
+    
+    <!-- forms -->
+    <color name="line">#cccccc</color>
+    <!-- multicity -->
+    <color name="bg_tramo">#8f8f8f</color>
+    
+    <!--          android studio            -->
+    <color name="red_btn">#ed1c24</color>
+    <color name="red_btn2">#B71E21</color>
+    <color name="red_actionbar">#b32525</color>
+    <color name="red_txt">#b32525</color>
+    <color name="red_txt2">#ed1c24</color>
+    <color name="red_ed1c4">#ed1c24</color>
+    <color name="white_txt">#ffffff</color>
+    <color name="gray_tab_selected">#333333</color>
+    <color name="gray_txt_hint">#999999</color>
+    <color name="gray_bg_flight">#8f8f8f</color>
+    <color name="gray_lines">#cccccc</color>
+    <color name="gray_txt">#333333</color>
+    <color name="gray_txt75">#BF333333</color>
+    <color name="gray_box">#333333</color>
+    <color name="gray_box_c">#cccccc</color>
+    <color name="black_txt2">#666666</color>
+    <color name="transparent">#00000000</color>
+    
+    <color name="gray_bg_popups">#cccccc</color>
+    <color name="white">#ffffff</color>
+    
+    <color name="gray_bg_content">#8f8f8f</color>
+    <color name="gray_bg_content2">#d9d9d9</color>
+    <color name="gray_999">#999999</color>
+    <color name="gray_d9d9">#d9d9d9</color>
+    
+    <!--  -->
+	<color name="white65">#A6FFFFFF</color>
+	<color name="red65">#26b32525</color>
+	<color name="red_action_bar">#FF3030</color>
+	
+	<color name="red35_item_exp_normal">#0Db32525</color>
+	<color name="red50_item_exp_selected">#33b32525</color>
+	
+	<color name="black_10percent">#E6E6E6</color>
+	
+	<color name="color_title_sal_rel">#EAEAEA</color>
+	
+	<color name="blue">#1c0399</color>
+
+    <color name="background">#65828e</color>
+    <color name="main_color">#ff9a00</color>
+    <color name="secondary_color">#ffffff</color>
+
+    <color name="valencia">#d43c43</color>
+    <color name="cerulean">#00A7DD</color>
+    <color name="silver">#cccccc</color>
+
+    <color name="colorPrimary">#FFb32525</color>
+    <color name="colorPrimaryDark">#ffFF3030</color>
+    <color name="colorAccent">#FF00E5FF</color>
+    <color name="colorControlNormal">#FF78909C</color>
+    <color name="colorControlActivated">#FF03A9F4</color>
+    <color name="colorSwitchThumbNormal">#FF78909C</color>
+
+</resources>
